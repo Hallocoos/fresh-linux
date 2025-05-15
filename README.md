@@ -96,6 +96,5 @@ You now have:
 * Oh My Zsh installed.
 * Docker ready to go.
 * UV Package Manager set up.
-""
 
 ## README.md generated with ChatGPT
