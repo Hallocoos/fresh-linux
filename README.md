@@ -2,7 +2,10 @@
 
 This guide will help you set up a fresh Ubuntu installation with the essential tools and configurations.
 
-To skip guide, run `curl -LsSf https://raw.githubusercontent.com/Hallocoos/fresh-linux/main/setup.sh | bash`
+To skip guide, run:
+```bash
+curl -LsSf https://raw.githubusercontent.com/Hallocoos/fresh-linux/main/setup.sh | bash`
+```
 
 ---
 
