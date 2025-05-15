@@ -71,9 +71,15 @@ Install UV using the official install script:
 curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
+## 🐍 **Step 3: Install Python**
+Install Python3 via apt:
+```bash
+sudo apt install -y python3 python3-pip
+```
+
 ---
 
-## 🔄 **Step 7: Reboot**
+## 🔄 **Step 8: Reboot**
 
 Finally, reboot your system to apply all changes:
 
